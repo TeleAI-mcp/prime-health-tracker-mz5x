@@ -1,2 +1,3 @@
-# prime-health-tracker-mz5x
+# Prime Health Tracker Mz5X
+
 A health and fitness tracking system for modern development workflows.
